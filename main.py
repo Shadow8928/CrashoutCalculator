@@ -1,10 +1,5 @@
-import sympy
-import numpy
-from sympy import Symbol
-import math
 import time
 import random
-from sympy.codegen import While
 
 insults = ["It is impossible to underestimate you",
            "The only time you are not as dumb as you look is when I close my eyes",
